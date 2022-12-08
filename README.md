@@ -1,5 +1,5 @@
 # q-auto-cli
-> 模仿vue的脚手架，快速搭建vite-ts项目环境
+> 模仿vue的脚手架，快速搭建Vue3 + vite + ts项目环境
 
 > npm地址：https://www.npmjs.com/package/q-auto-cli
 ## 安装脚手架
